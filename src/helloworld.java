@@ -13,7 +13,7 @@ public class helloworld{
         LCD.clear();
         LCD.drawString("Welcome", 0, 0);
 
-        Delay.msDelay(1000);
+        Delay.msDelay(2000);
        
         // TextWrap(message2);
         LCD.drawString("This is my 1st LEGO code.", 0, 1);
